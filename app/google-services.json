@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "177505951504",
+    "firebase_url": "https://ru-kun-7d224-default-rtdb.firebaseio.com",
+    "project_id": "ru-kun-7d224",
+    "storage_bucket": "ru-kun-7d224.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177505951504:android:3fcca64146c191c6bd4f95",
+        "android_client_info": {
+          "package_name": "com.example.ru_kun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8m5D64OHG--tlEpOef4P_hm8uOdDa97Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177505951504:android:d63acfecbd42a8d9bd4f95",
+        "android_client_info": {
+          "package_name": "com.peminjamanmobile.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8m5D64OHG--tlEpOef4P_hm8uOdDa97Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

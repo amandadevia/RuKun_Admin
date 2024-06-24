@@ -1,0 +1,240 @@
+<resources>
+    <string name="app_name">AdminPeminjamanMobile</string>
+
+    <!-- Authentication -->
+    <string name="welcome">Selamat Datang</string>
+    <string name="welcome_description">Masukkan NIP dan kata sandimu di sini untuk mengelola peminjaman ruangan.</string>
+    <string name="signup_description">Daftar dan kelola ruanganmu.</string>
+
+    <string name="user_nip_input_hint">Masukkan NIP</string>
+    <string name="password_input_hint">Masukkan Kata Sandi</string>
+    <string name="confirm_password_input_hint">Konfirmasi Kata Sandi</string>
+
+    <string name="signin">Masuk</string>
+    <string name="sign_up_here"><font color="#989799">Belum punya akun?</font> <b><font color="#FF6A33">Daftar di sini</font></b></string>
+
+    <string name="signup">Daftar</string>
+    <string name="sign_in_here"><font color="#989799">Sudah punya akun?</font> <b><font color="#FF6A33">Masuk sekarang</font></b></string>
+
+    <!-- Home -->
+    <string name="manage_borrowing">Kelola Pinjaman</string>
+    <string name="manage_facility">Kelola Ruangan</string>
+    <string name="see_all">Lihat Semua</string>
+
+    <!-- Profile -->
+    <string name="admin_name">Adzkia Tesla</string>
+    <string name="admin_id">12345678</string>
+    <string name="role">Admin</string>
+    <string name="edit_profile">Edit Profil</string>
+    <string name="help_center">Help Center</string>
+    <string name="logout">Keluar</string>
+    <string name="change_image_instruction">Edit Gambar Profil Admin</string>
+    <string name="edit_name_input_hint">Adzkia Tesla</string>
+    <string name="edit_nip_input_hint">12345678</string>
+
+    <!-- Toast -->
+    <string name="toast_message">Toast message</string>
+    <string name="signup_successfully">Berhasil melakukan pendaftaran</string>
+    <string name="signin_successfully">Berhasil masuk</string>
+    <string name="signout_successfully">Berhasil keluar</string>
+    <string name="edit_profile_successfully">Berhasil mengedit profil</string>
+    <string name="delete_room_successfully">Berhasil menghapus ruangan</string>
+    <string name="delete_room_failed">Gagal menghapus ruangan</string>
+    <string name="loan_accept_successfully">Peminjaman fasilitas diterima</string>
+    <string name="loan_reject_successfully">Peminjaman fasilitas ditolak</string>
+    <string name="edit_room_successfully">Berhasil mengedit ruangan</string>
+    <string name="add_room_successfully">Berhasil menambah ruangan</string>
+
+    <!-- Tab Layout -->
+    <string name="proposed">Diajukan</string>
+    <string name="rejected">Ditolak</string>
+    <string name="approved">Diterima</string>
+
+    <!-- Bottom Navigation -->
+    <string name="home">Beranda</string>
+    <string name="manage_room">Ruangan</string>
+    <string name="borrow">Pinjaman</string>
+    <string name="manage_user">Pengguna</string>
+    <string name="profile">Profil</string>
+
+    <!-- Dialog Box -->
+    <string name="dialog_information">Dialog Information</string>
+    <string name="button_dialog_yes">Ya</string>
+    <string name="button_dialog_no">Tidak</string>
+    <string name="button_dialog_delete">Hapus</string>
+    <string name="button_dialog_cancel">Batal</string>
+    <string name="want_to_logout">Yakin ingin keluar?</string>
+    <string name="want_to_edit_profile">Yakin ingin mengedit profil?</string>
+    <string name="want_to_delete_room">Yakin ingin menghapus ruangan?</string>
+
+    <!-- Help Center -->
+    <string name="help_center_information">Untuk informasi lebih lanjut, silakan hubungi kami melalui WhatsApp di nomor +62 123 544 219.</string>
+    <string name="proceed_to_whatsapp">Lanjutkan ke WhatsApp</string>
+    <string name="download_whatsapp">Belum memiliki Whatsapp? <b><font color="#FF6A33">Unduh sekarang</font></b></string>
+
+    <!-- Toolbar Title -->
+    <string name="toolbar_home">Beranda</string>
+    <string name="toolbar_manage_room">Manajemen Ruangan</string>
+    <string name="toolbar_borrow">Kelola Pinjaman</string>
+    <string name="toolbar_profile">Profil</string>
+
+    <!-- Borrow Detail -->
+    <string name="borrow_detail">Detail Pinjaman</string>
+    <string name="borrower_name">Borrower Name</string>
+    <string name="borrower_id">Borrower ID</string>
+    <string name="facility_loan_id">IDPINJAM00000</string>
+    <string name="date">Tanggal</string>
+    <string name="time">Waktu</string>
+    <string name="activity_description">Deskripsi Kegiatan</string>
+    <string name="loan_document">Surat Peminjaman Fasilitas</string>
+    <string name="want_to_reject">Tolak Peminjaman Fasilitas?</string>
+
+    <!-- Borrow Rejection -->
+    <string name="rejection_information">Informasi Penolakan</string>
+    <string name="facility_loan_request">Permohonan peminjaman fasilitas atas nama</string>
+    <string name="rejection_reason">Alasan Penolakan</string>
+    <string name="reject_loan">Tolak Pinjaman</string>
+    <string name="rejected_by">Ditolak oleh</string>
+
+    <!-- Item Row Borrow and Room-->
+    <string name="loan_facility_name">Loan Facility Name</string>
+    <string name="loan_facility_time">00.00 – 00.00 WIB</string>
+    <string name="loan_facility_date">00 Month 2024</string>
+    <string name="loan_facility_id">IDPINJAM00001</string>
+    <string name="loan_facility_status">Loan Status</string>
+    <string name="loan_facility_location">Loan Facility Location</string>
+    <string name="loan_facility_activity_description">Loan Facility Location</string>
+    <string name="loan_facility_document">Loan Facility Document</string>
+    <string name="accept">Setujui</string>
+    <string name="reject">Tolak</string>
+
+    <!--  Edit and Add Room -->
+    <string name="insert_room_image">Masukkan Gambar Ruangan</string>
+    <string name="edit_room_image">Edit Gambar Ruangan</string>
+    <string name="facility_name">Nama Fasilitas</string>
+    <string name="room_location">Lokasi Ruangan</string>
+    <string name="add_room">Tambah Ruangan</string>
+    <string name="edit_room">Edit Ruangan</string>
+
+    <!-- Borrow Data -->
+    <array name="facility_loan_images">
+        <item>@drawable/iv_fiklab_201</item>
+        <item>@drawable/iv_fiklab_304</item>
+        <item>@drawable/iv_fiklab_401</item>
+        <item>@drawable/iv_selasar_fik_upnvj</item>
+    </array>
+
+    <string-array name="facility_loan_ids">
+        <item>IDPINJAM00001</item>
+        <item>IDPINJAM00002</item>
+        <item>IDPINJAM00003</item>
+        <item>IDPINJAM00004</item>
+    </string-array>
+
+    <string-array name="facility_loan_names">
+        <item>FIKLAB-201</item>
+        <item>FIKLAB-304</item>
+        <item>FIKLAB-401</item>
+        <item>Selasar FIK UPNVJ</item>
+    </string-array>
+
+    <string-array name="facility_loan_times">
+        <item>13.00 – 14.30 WIB</item>
+        <item>12.00 – 13.30 WIB</item>
+        <item>11.00 – 12.30 WIB</item>
+        <item>10.00 – 11.30 WIB</item>
+    </string-array>
+
+    <string-array name="facility_loan_statuses">
+        <item>Diajukan</item>
+        <item>Diterima</item>
+        <item>Ditolak</item>
+        <item>Diterima</item>
+    </string-array>
+
+    <string-array name="facility_loan_dates">
+        <item>1 Juli 2024</item>
+        <item>2 Juli 2024</item>
+        <item>3 Juli 2024</item>
+        <item>4 Juli 2024</item>
+    </string-array>
+
+    <string-array name="facility_loan_locations">
+        <item>Gd. Ki Hajar Dewantara</item>
+        <item>Gd. Ki Hajar Dewantara</item>
+        <item>Gd. Ki Hajar Dewantara</item>
+        <item>Gd. Ki Hajar Dewantara</item>
+    </string-array>
+
+    <string-array name="facility_loan_borrower_images">
+        <item>@drawable/iv_cassandra_amara</item>
+        <item>@drawable/iv_permata_amalia</item>
+        <item>@drawable/iv_alexa_oktaviana</item>
+        <item>@drawable/iv_levia_ackerman</item>
+    </string-array>
+
+    <string-array name="facility_loan_borrower_names">
+        <item>Cassandra Amara</item>
+        <item>Permata Amalia</item>
+        <item>Alexa Oktaviana</item>
+        <item>Levia Ackerman</item>
+    </string-array>
+
+    <string-array name="facility_loan_borrower_ids">
+        <item>2110512000</item>
+        <item>2110512000</item>
+        <item>2110512000</item>
+        <item>2110512000</item>
+    </string-array>
+
+    <string-array name="facility_loan_activity_descriptions">
+        <item>Cosplay anime adalah kegiatan di mana seseorang mengenakan kostum dan aksesori yang menyerupai karakter dari anime, manga, atau permainan video</item>
+        <item>Cosplay anime adalah kegiatan di mana seseorang mengenakan kostum dan aksesori yang menyerupai karakter dari anime, manga, atau permainan video</item>
+        <item>Cosplay anime adalah kegiatan di mana seseorang mengenakan kostum dan aksesori yang menyerupai karakter dari anime, manga, atau permainan video</item>
+        <item>Cosplay anime adalah kegiatan di mana seseorang mengenakan kostum dan aksesori yang menyerupai karakter dari anime, manga, atau permainan video</item>
+    </string-array>
+
+    <string-array name="facility_loan_documents">
+        <item>SuratIzinPeminjamanFasilitas.pdf</item>
+        <item>SuratIzinPeminjamanFasilitas.pdf</item>
+        <item>SuratIzinPeminjamanFasilitas.pdf</item>
+        <item>SuratIzinPeminjamanFasilitas.pdf</item>
+    </string-array>
+
+
+    <!-- Item Row Notification -->
+    <string name="borrowing_status">Status Peminjaman</string>
+    <string name="borrowing_status_information">Informasi Status Peminjaman</string>
+    <string name="item_date">DD MMMM YYYY</string>
+
+    <!-- Notification -->
+    <string name="notification">Notifikasi</string>
+
+    <!-- Notification Data -->
+    <string-array name="data_borrowing_status">
+        <item>Peminjaman Selesai</item>
+        <item>Pengajuan Baru Masuk</item>
+        <item>Pengajuan Baru Masuk</item>
+        <item>Pengajuan Baru Masuk</item>
+        <item>Pengajuan Baru Masuk</item>
+    </string-array>
+
+    <string-array name="data_borrowing_status_information">
+        <item>Peminjaman ruang FIK-LAB 304 dengan  IDPINJAM00001 telah selesai.</item>
+        <item>Pengajuan peminjaman ruangan FIK-LAB 304 dengan IDPINJAM00001 masuk.</item>
+        <item>Pengajuan peminjaman ruangan FIK-LAB 304 dengan IDPINJAM00002 masuk.</item>
+        <item>Pengajuan peminjaman ruangan FIK-LAB 304 dengan IDPINJAM00003 masuk.</item>
+        <item>Pengajuan peminjaman ruangan FIK-LAB 304 dengan IDPINJAM00004 masuk.</item>
+    </string-array>
+
+    <string-array name="data_notification_time">
+        <item>15 min</item>
+        <item>15 min</item>
+        <item>1 jam</item>
+        <item>1 jam</item>
+        <item>1 jam</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

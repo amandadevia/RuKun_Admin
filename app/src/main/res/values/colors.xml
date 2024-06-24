@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Others -->
+    <color name="green">#28B446</color>
+    <color name="blue">#2E7FDE</color>
+    <color name="yellow">#FDC500</color>
+    <color name="red">#DB3535</color>
+    <color name="dark_gray_icon">#49454F</color>
+
+    <!-- Neutral -->
+    <color name="neutral_500">#333333</color>
+    <color name="neutral_400">#545454</color>
+    <color name="neutral_300">#8A8A8A</color>
+    <color name="neutral_200">#B5B5B5</color>
+    <color name="neutral_100">#E8E8E8</color>
+
+    <!-- Primary -->
+    <color name="orange_900">#6B1D00</color>
+    <color name="orange_800">#8C2600</color>
+    <color name="orange_700">#B53100</color>
+    <color name="orange_600">#E83F00</color>
+    <color name="orange_500">#FF4500</color>
+    <color name="orange_400">#FF6A33</color>
+    <color name="orange_300">#FF8254</color>
+    <color name="orange_200">#FFA98A</color>
+    <color name="orange_100">#FFC5B0</color>
+    <color name="orange_50">#FFECE6</color>
+
+</resources>
